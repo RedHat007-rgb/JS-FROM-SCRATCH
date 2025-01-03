@@ -1,0 +1,12 @@
+{
+  "name": "arrays_objects_and_loops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node Function.js && node Funtion_expression.js && node Function_Challenge.js && node Objects.js && node Objects_Challenge.js && node Conditional_Statements.js && node Equality.js && node switch_statement.js && node Conditionals_Challenge.js && node while_loops.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
