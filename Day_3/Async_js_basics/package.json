@@ -1,0 +1,15 @@
+{
+  "name": "async_js_basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node SingleThread.js &&  node Example.js && node setTimeout.js && node ReadingFile.js && node FunctionalArguments.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
